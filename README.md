@@ -26,7 +26,7 @@ Management System” has been conceptualized.
 
 ## Run the projects
 
-- If your are yousing XAMPP extract this project in htdocs folder.
+- If your are using XAMPP extract this project in htdocs folder.
 - Create a database called **assembly** and import the **assembly.sql** from the database folder.
 - Now the project will available at http://localhost/assembly/index
 
