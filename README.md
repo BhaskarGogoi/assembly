@@ -1,4 +1,4 @@
-# Legislative Assembly Session's Qestion Tracking System
+# Legislative Assembly Session's Question Tracking System
 
 Legislative Assembly Session's question tracking system. Created this project for my BCA major project in 2019.
 
