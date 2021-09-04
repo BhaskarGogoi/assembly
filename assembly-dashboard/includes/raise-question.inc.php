@@ -122,7 +122,7 @@
 					  CURLOPT_CUSTOMREQUEST => "POST",
 					  CURLOPT_POSTFIELDS => json_encode($field),
 					  CURLOPT_HTTPHEADER => array(
-					    "authorization: YOT8Bn1zaKDEchSPJsmAfZ6ij3qQNCe2ypoVlrFu9dGw50UbLRwcsqoF9HMNDgAB2leOTpnQKm50PE1v",
+					    "authorization: YOUR_API_KEY",
 					    "cache-control: no-cache",
 					    "accept: */*",
 					    "content-type: application/json"
